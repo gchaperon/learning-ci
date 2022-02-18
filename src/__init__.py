@@ -1,5 +1,5 @@
-import sys
 import os
+import sys
 
 
 def nfibonacci(n: int) -> list[int]:
